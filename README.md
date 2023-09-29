@@ -1,1 +1,1 @@
-# ommniverse
+# ommniverse smart contracts
